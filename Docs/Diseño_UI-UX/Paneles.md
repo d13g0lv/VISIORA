@@ -2,7 +2,7 @@
 
 ![Panel_Admin](../Imágenes/Panel_Admin.jpg)
 ![Panel_Admin2](../Imágenes/Panel_Admin2.jpg)
-![Panel_Admin3](../Imágenes/Panel_Admin3.jpg)
+
 
 El **panel administrativo web** está diseñado para municipalidades y gestores de tráfico.  
 Permite visualizar:
@@ -13,4 +13,5 @@ Permite visualizar:
 
 El diseño es **limpio, profesional y responsivo**, combinando gráficos dinámicos con íconos de estado en tiempo real.  
 Representa la **inteligencia urbana de Visiora** desde una vista de control central.
+
 
