@@ -1,6 +1,7 @@
 #  Identidad y Logo — Veyro
 
-![Logo Visiora](../Imágenes/Logo.jpg)
+![Logo](../Imágenes/Logo1.jpg)
+![Logo2](../Imágenes/Logo2.jpg)
 
 El **logo de Visiora** simboliza la **visión inteligente sobre la ciudad**, fusionando el ojo (visión) con la forma de una **red urbana**.  
 Sus colores representan:
@@ -9,4 +10,5 @@ Sus colores representan:
 
 Tipografía recomendada: **Poppins Bold / Inter SemiBold**.  
 El estilo busca una imagen **moderna, tecnológica y peruana**, fácil de reconocer en aplicaciones móviles.
+
 
