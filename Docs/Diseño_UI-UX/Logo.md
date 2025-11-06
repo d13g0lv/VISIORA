@@ -1,4 +1,4 @@
-#  Identidad y Logo — Visiora
+#  Identidad y Logo — Veyro
 
 ![Logo Visiora](../Imágenes/Logo.jpg)
 
@@ -9,3 +9,4 @@ Sus colores representan:
 
 Tipografía recomendada: **Poppins Bold / Inter SemiBold**.  
 El estilo busca una imagen **moderna, tecnológica y peruana**, fácil de reconocer en aplicaciones móviles.
+
